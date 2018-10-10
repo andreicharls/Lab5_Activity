@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab5_Activity</string>
+
+    <string name="title1">Star City</string>
+    <string name="title2">Welcome Rotonda</string>
+    <string name="location">Location:</string>
+    <string name="distance">Distance from UST: </string>
+
+    <string name="act1">Activity 1</string>
+    <string name="act2">Activity 2</string>
+    <string name="map">Map</string>
+    <string name="todo">TODO</string>
+</resources>
